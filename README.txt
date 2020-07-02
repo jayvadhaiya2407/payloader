@@ -1,6 +1,6 @@
-Payloader - v1.0 Developed By Jay Vadhaiya
+Payloader v1.0 -By Jay Vadhaiya
 
-This is the tool for making your task easy for macking task easily just selecting your choise.
-Enjoy your payloads by using this.
+YOU CAN MAKE SUCH PAYLOADS WITHOUT WRITING COMMANDS IN JUST A MINUTE.
+THANK YOU FOR DOWNLOADING THIS TOOL.
 
 Contact :- jayvadhaiya2002@gmail.com
